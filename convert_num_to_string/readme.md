@@ -7,4 +7,4 @@
 # 12311 should return twelve thousand three hundred eleven
 # 2,002,234 should return Two million two thousand two hundred thirty four
 
-# Upto the limit of an signed integer
+# Up to the limit of an signed integer
