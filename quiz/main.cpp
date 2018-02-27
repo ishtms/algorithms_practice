@@ -51,5 +51,5 @@ int main()
     while(calculateAndPrintHeight(initialHeight, time)){
         time++;
     }
-	return 0;
+    return 0;
 }
