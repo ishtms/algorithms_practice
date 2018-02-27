@@ -16,7 +16,7 @@
 */
 
 #include <iostream>
-
+#include <ctime>
 // Enumeration for Monster's type
 
 enum class MonsterType {
