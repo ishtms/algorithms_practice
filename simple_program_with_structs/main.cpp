@@ -52,7 +52,7 @@ void printMonster(Monster monster){
         monsterName = "Slime";
     }
 
-    std::cout << "This " << monsterName << " is named " << monster.name << " and has " << monster.health << " health.";
+    std::cout << "This " << monsterName << " is named " << monster.name << " and has " << monster.health << " health." << std::endl;
 }
 
 int main(void){
